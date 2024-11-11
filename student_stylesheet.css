@@ -1,0 +1,20 @@
+/*
+ * //HDC-HGP Assignment 01 
+//Chukwuemeka Wisdom Arinze, 2970177 (April 2024)
+ * */
+.root{
+	-fx-font-size: 10pt; 
+	-fx-font-weight: bold;
+}
+.button{
+	-fx-padding:5px;
+	
+}
+
+.label{
+	-fx-padding: 5px;
+} 
+
+.textfield{
+	-fx-padding: 5px;
+}
